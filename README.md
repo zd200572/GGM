@@ -1,6 +1,6 @@
 # GGM
 
-A pipeline for **G**ut **G**enome and **M**etabolome analysis, comprising three modules: MAG generation, antimicrobial peptide (AMP) identification, and visualization.
+A pipeline for **G**oat **G**ut and **M**icrobiome analysis, comprising three modules: MAG generation, antimicrobial peptide (AMP) identification, and visualization.
 
 ## Directory Structure
 
