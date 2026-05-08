@@ -68,13 +68,7 @@ Pipeline for identifying antimicrobial peptides (AMPs) from protein sequences us
 
 ### AMP Prediction Tools Used
 
-| Tool | Method | Score Threshold (default) |
-|------|--------|--------------------------|
-| AmPEP | Random forest | 0.5 |
-| APIN | Deep learning | 0.5 |
-| ampir | Machine learning (R) | 0.5 |
-| AMPscanner-v2 | Deep learning (TF) | 0.5 |
-| AMPlify | Deep learning | 0.5 |
+ AmPEP, APIN, ampir, AMPscanner-v2，AMPlify 
 
 ### Input
 
